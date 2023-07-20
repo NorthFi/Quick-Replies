@@ -1,14 +1,15 @@
-Dear Client,
+Dear Customer,
 
-Thank you for bringing to our attention the recent downtime you experienced on your connection. I understand that you are frustrated with the turnaround time to resolve the issue. We do not have a service level agreement that guarantees 100% uptime, and our service is best effort.
+Thank you for your recent communication regarding the delay in repairing your connection. We understand that this may have caused inconvenience to you, and we apologize for any inconvenience caused.
 
-Please note that when you signed the contract with us, it was agreed that we provide a best effort service. We strive to provide the best service possible, but sometimes, unforeseen circumstances arise that may cause downtime.
+We would like to clarify that the delay in repairing your connection was due to the larger demand we experienced at the time, which caused a higher turnaround time than usual. We strive to provide the best service possible, and unfortunately, sometimes, unforeseen circumstances arise that may cause a delay in our service delivery.
 
-To minimize any future disruptions, I suggest that you consider installing a backup connection from a different provider. This will provide you with a failover in case of any downtime, ensuring that you have access to the internet at all times.
+We appreciate your patience and understanding in this matter. We would like to assure you that we are continuously working to improve our services and reduce any turnaround time delays that may occur.
 
-I apologize for any inconvenience caused and appreciate your understanding in this matter. If you have any further questions or concerns, please do not hesitate to contact us.
+Unfortunately, we are not in a position to provide a credit note towards your account for this incident as we have followed our service agreement terms. We value your business and would like to continue providing you with the best service possible. Please do not hesitate to contact us if you have any further questions or concerns.
 
 Thank you for choosing our services.
 
 Best regards,
 
+[Your Name]
