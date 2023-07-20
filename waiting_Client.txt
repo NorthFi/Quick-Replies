@@ -1,0 +1,14 @@
+Dear Client,
+
+Thank you for bringing to our attention the recent downtime you experienced on your connection. I understand that you are frustrated with the turnaround time to resolve the issue. We do not have a service level agreement that guarantees 100% uptime, and our service is best effort.
+
+Please note that when you signed the contract with us, it was agreed that we provide a best effort service. We strive to provide the best service possible, but sometimes, unforeseen circumstances arise that may cause downtime.
+
+To minimize any future disruptions, I suggest that you consider installing a backup connection from a different provider. This will provide you with a failover in case of any downtime, ensuring that you have access to the internet at all times.
+
+I apologize for any inconvenience caused and appreciate your understanding in this matter. If you have any further questions or concerns, please do not hesitate to contact us.
+
+Thank you for choosing our services.
+
+Best regards,
+
