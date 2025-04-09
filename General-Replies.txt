@@ -1,0 +1,26 @@
+⚙️ Technical Support
+"Hi there! We’ve received your request and are looking into it. We’ll update you shortly!"
+
+"Could you please confirm if your router is powered on and all cables are securely connected?"
+
+"Our team is investigating a possible network issue in your area. We’ll keep you updated."
+
+💳 Billing & Payments
+"Your invoice has been sent! Let us know if you need a breakdown or assistance with payment."
+
+"You can view and pay your invoice online at: [link]. Need help? We're here!"
+
+"We’ve received your payment—thank you! Your service is now fully active."
+
+🌐 General Inquiries
+"Thanks for reaching out to NorthFi! How can we assist you today?"
+
+"Yes, we do offer fibre and wireless internet plans. Would you like a breakdown of options?"
+
+"Our team works from 8 AM to 6 PM, Monday to Saturday. We’ll get back to you as soon as we can!"
+
+🛠️ Service Updates / Outages
+"We’re currently experiencing a service interruption in [area]. Our technicians are on it!"
+
+"Service has been restored. Please reboot your router if you’re still having issues."
+
