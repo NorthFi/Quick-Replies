@@ -1,26 +1,76 @@
-⚙️ Technical Support
-"Hi there! We’ve received your request and are looking into it. We’ll update you shortly!"
+Quick Replies – WhatsApp & Email (Professional Tone)
 
-"Could you please confirm if your router is powered on and all cables are securely connected?"
+---
 
-"Our team is investigating a possible network issue in your area. We’ll keep you updated."
+🛠️ Technical Support
 
-💳 Billing & Payments
-"Your invoice has been sent! Let us know if you need a breakdown or assistance with payment."
+1. **Initial Response**
+   > Thank you for contacting NorthFi. We’ve received your request and our team will respond shortly.
 
-"You can view and pay your invoice online at: [link]. Need help? We're here!"
+2. **Requesting More Info**
+   > Could you please provide more details regarding the issue, including any error messages or lights on the router?
 
-"We’ve received your payment—thank you! Your service is now fully active."
+3. **Basic Troubleshooting**
+   > Kindly reboot your router by unplugging it for 30 seconds, then plugging it back in. Let us know if the issue persists.
 
-🌐 General Inquiries
-"Thanks for reaching out to NorthFi! How can we assist you today?"
+4. **Confirming Resolution**
+   > The issue should now be resolved. Please confirm if everything is working on your end.
 
-"Yes, we do offer fibre and wireless internet plans. Would you like a breakdown of options?"
+5. **Escalation**
+   > We’ve escalated your request to our technical team. They will follow up with you shortly.
 
-"Our team works from 8 AM to 6 PM, Monday to Saturday. We’ll get back to you as soon as we can!"
+---
 
-🛠️ Service Updates / Outages
-"We’re currently experiencing a service interruption in [area]. Our technicians are on it!"
+🌐 Service Information
 
-"Service has been restored. Please reboot your router if you’re still having issues."
+1. **Plan Information**
+   > We offer both wireless and fibre internet services. Would you like assistance choosing a package that best suits your needs?
+
+2. **Coverage Check**
+   > Could you please send us your location (or drop a pin)? We'll check coverage in your area right away.
+
+3. **Installation Inquiry**
+   > Our installation team is available Monday to Saturday. Once your application is approved, we’ll schedule the next available slot.
+
+---
+
+💳 Billing & Accounts
+
+1. **Invoice Sent**
+   > Your invoice has been sent via email. Please let us know once payment is made, or if you need any help.
+
+2. **Payment Confirmation**
+   > Payment received—thank you! Your account is now fully active.
+
+3. **Payment Reminder**
+   > This is a friendly reminder that your payment for this month is due. Please let us know if you need assistance.
+
+4. **Account Suspension Notice**
+   > Your account has been temporarily suspended due to non-payment. Please contact us to restore service.
+
+---
+
+🚨 Network Status / Outages
+
+1. **Acknowledgement**
+   > We are currently aware of an outage affecting certain users in your area. Our team is working on it.
+
+2. **Update**
+   > Our technicians are actively resolving the issue. We appreciate your patience during this time.
+
+3. **Resolved**
+   > Services have been restored. Please restart your router to refresh your connection.
+
+---
+
+📦 Sales / New Customers
+
+1. **Welcome Message**
+   > Welcome to NorthFi! We’re excited to help you get connected. Let us know how we can assist you today.
+
+2. **Application Follow-up**
+   > Just checking in—have you had a chance to complete your application form? Let us know if you need help.
+
+3. **Quote Sent**
+   > We’ve emailed your custom quote. Let us know if you’d like to proceed or have any questions.
 
