@@ -74,3 +74,125 @@ Quick Replies – WhatsApp & Email (Professional Tone)
 3. **Quote Sent**
    > We’ve emailed your custom quote. Let us know if you’d like to proceed or have any questions.
 
+
+🔄 Support Handover
+1. Transferring to Another Team Member
+
+I'm handing this over to our [Tech/Billing] team who will assist you further. They'll reach out shortly to continue support.
+
+2. Shift Change Handover
+
+My shift is ending, but your request has been handed over to the next available support agent. You’ll hear from them soon.
+
+3. Waiting for Technician
+
+Our technician has been briefed and will be in touch. Thank you for your patience—we’ll ensure this is resolved promptly.
+
+🚀 Client Onboarding
+1. Post-Application Acknowledgement
+
+We’ve received your application—thank you! We’re reviewing your details and will follow up with next steps shortly.
+
+2. Pre-Installation Checklist
+
+Please ensure someone is available at the premises, and that there's a power outlet near the router installation point.
+
+3. Welcome After Installation
+
+Your installation is complete! Welcome to NorthFi 🎉 If you have any questions, we're just a message away.
+
+4. First-Time Login Help
+
+Your router is pre-configured. Just connect to the WiFi using the network name and password provided. Let us know if you need help logging in.
+
+🛠️ Maintenance Notices
+1. Scheduled Maintenance Notice
+
+Please note: We will be performing scheduled maintenance on [DATE] from [TIME] to [TIME]. There may be brief service interruptions.
+
+2. Maintenance Reminder (24hr notice)
+
+Reminder: Maintenance is scheduled for tomorrow, [DATE], between [TIME] and [TIME]. We appreciate your understanding.
+
+3. Post-Maintenance Confirmation
+
+Maintenance has been completed successfully. Please restart your router to refresh your connection. Let us know if anything seems off.
+
+4. Emergency Maintenance
+
+We’re conducting emergency maintenance to resolve a critical issue. Our team is working swiftly to minimize downtime.
+
+Would you like me to add these to your existing quick replies PDF or make a separate “Advanced Replies” version?
+
+
+📩 Follow-ups & Reminders
+1. Friendly Follow-up
+
+Just checking in—were you able to test the solution we sent? Let us know if it's resolved or if you need further assistance.
+
+2. No Response After Quote
+
+We hope you found the quote helpful. Let us know if you'd like to proceed, or if there’s anything we can adjust to better suit your needs.
+
+3. Waiting on Customer Action
+
+We’re currently waiting on your feedback to continue. Please let us know when you're ready so we can proceed.
+
+4. Missed Appointment
+
+We noticed the technician wasn’t able to complete your installation today. Would you like us to reschedule?
+
+👥 Account & Service Changes
+1. Service Upgrade Confirmation
+
+Your upgrade request has been received. We’ll complete the change within [X] business hours and confirm once it’s live.
+
+2. Plan Downgrade
+
+Your request to downgrade has been processed. The new plan will take effect from your next billing cycle.
+
+3. Account Info Update
+
+Your account details have been updated as requested. Please let us know if there’s anything else you'd like to change.
+
+4. Cancellation Confirmation
+
+We're sorry to see you go. Your service has been cancelled as of [DATE]. Thank you for being a NorthFi customer.
+
+🧾 Proof & Documents
+1. Proof of Payment Request
+
+Please forward proof of payment so we can allocate it to your account. A screenshot or PDF will do.
+
+2. Payment Receipt
+
+Attached is your receipt for the recent payment. Let us know if you need it resent or require a statement.
+
+3. SLA Document
+
+You can find our service level agreement here: [insert link]. Reach out if you have any questions.
+
+🔌 Connection Checks & Router Help
+1. Signal Check
+
+We're checking your signal from our side—this may take a moment. Please stay connected.
+
+2. Intermittent Connection
+
+We’re seeing intermittent drops. A technician may need to assess the equipment onsite. Shall we schedule a visit?
+
+3. Router Login Details
+
+You can log into your router at [IP Address] using username: admin and the password we provided. Let us know if you need assistance.
+
+🎯 Client Experience & Surveys
+1. After Support Feedback
+
+We hope your issue is resolved. Would you mind rating your experience with us today? It helps us improve!
+
+2. Installation Feedback
+
+Thanks again for choosing NorthFi. We'd love to hear how the installation went and if everything’s working as expected.
+
+
+
